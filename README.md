@@ -1,5 +1,3 @@
-# meetup016
-
 # PyData.Okinawa Meetup #16 - Kerasで深層学習
 
 2016年08月20日（土）に開催された[PyData.Okinawa Meetup #16 - Kerasで深層学習](http://pydataokinawa.connpass.com/event/36115/)の発表資料等をまとめたページです。
